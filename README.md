@@ -1,7 +1,7 @@
 # E-commerce-backend
 
 ## Description
-The back end for an e-commerce site. It workds with a Express.js API and uses Sequelize to interact with a MySQL database.
+The back end for an e-commerce site. It works with a Express.js API and uses Sequelize to interact with a MySQL database.
 
   ## Table of Contents
 
