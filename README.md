@@ -31,5 +31,6 @@ If you have any questions about this project, send me an email at lizethariasc14
 ![Mock-up](mockup2.gif)
 
 ## Video
+Click the following image to see a walkthrough video of the application
 [![Video Demo](video.png)](https://drive.google.com/file/d/1H_0QPe1W3p83NkphBSdcdwEg9L9llZyP/view)
 
