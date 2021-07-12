@@ -14,7 +14,24 @@ The back end for an e-commerce site. It works with a Express.js API and uses Seq
 
 
 ## Installation 
-The user needs to have Node.js installed, clone the repo, run npm init and npm install for the dependencies. After that, run node 'index.js' to start the application, answer all the prompted questions and your README.md file will be created in the root directory of the Application.
+* The user needs to have Node.js installed, clone the repo, run `npm init` and `npm install` for the dependencies. After that, you need to install MySQL2, Sequelize, Express.js and dotenv, run:
+ `npm install mysql2`
+ `npm install sequelize`
+ `npm install express`
+ `npm install dotenv`
+
+* To start the application, run:
+
+`mysql -u root -p`
+
+`source db/schema.sql` for the database.
+
+`quit`
+
+`npm run seed` to seed the tables.
+
+`npm start` to start server.js.
+
 
 ## Usage
 Understand the fundamental architecture of e-commerce sites.
